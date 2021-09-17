@@ -1,4 +1,4 @@
-package com.ahmet.madbase
+package com.ahmet.madbase.app.base
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
